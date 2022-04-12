@@ -8,8 +8,8 @@
 | 5.          | SUPCHEF             | 11/04/22 | 00:05:00   | [SUPCHEF](https://www.codechef.com/problems/SUPCHEF)|
 | 6.          | GENE01              | 12/04/22 | 00:08:00   | [GENE01](https://www.codechef.com/problems/GENE01)|
 | 7.          | GOODWEAT            | 12/04/22 | 00:10:00   | [GOODWEAT](https://www.codechef.com/problems/GOODWEAT)|
-| 8.          | MIXTURE             | 00/04/22 | 00:00:00   | [MIXTURE](coming soon)|
-
+| 8.          | MIXTURE             | 12/04/22 | 00:09:00   | [MIXTURE](https://www.codechef.com/problems/MIXTURE)|
+| 9.          | CHSFORMT            | 00/04/22 | 00:00:00   | [CHSFORMT](coming soon#https://www.codechef.com/problems/CHSFORMT)|
 
 ## This Problems are solved by me i have not copied code from internet
 ### You can see my Time Taken That is my prof. 👍
