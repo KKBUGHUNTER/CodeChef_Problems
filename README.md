@@ -11,7 +11,9 @@
 | 8.          | MIXTURE             | 12/04/22 | 00:09:00   | [MIXTURE](https://www.codechef.com/problems/MIXTURE)|
 | 9.          | CHSFORMT            | 12/04/22 | 00:05:00   | [CHSFORMT](https://www.codechef.com/problems/CHSFORMT)|
 | 10.         | BMI                 | 12/04/22 | 00:02:00   | [BMI](https://www.codechef.com/problems/BMI)|
-| 11.         | CHEFTRANS           | 00/04/22 | 00:00:00   | [CHEFTRANS](coming soon#https://www.codechef.com/problems/CHEFTRANS)|
+| 11.         | CHEFTRANS           | 12/04/22 | 00:10:00   | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
+| 12.         | VISA                | 00/04/22 | 00:00:00   | [VISA](coming soon#https://www.codechef.com/problems/VISA)|
+
 
 ## This Problems are solved by me i have not copied code from internet
 ### You can see my Time Taken That is my prof. 👍
