@@ -13,7 +13,7 @@
 | 10.         | BMI                 | 12/04/22 | 00:02:00   | [BMI](https://www.codechef.com/problems/BMI)|
 | 11.         | CHEFTRANS           | 12/04/22 | 00:10:00   | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
 | 12.         | CARS                | 12/04/22 | 00:02:00   | [CARS](https://www.codechef.com/problems/CABS)|
-| 13.         | CHEFTRANS           | 00/04/22 | 00:00:00   | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
+| 13.         | CHEFTRANS           | 12/04/22 | 00:03:00   | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
 
 ## This Problems are solved by me i have not copied code from internet
 ### You can see my Time Taken That is my prof. 👍
