@@ -10,7 +10,7 @@
 | 7.          | GOODWEAT            | 12/04/22 | 00:10:00   | [GOODWEAT](https://www.codechef.com/problems/GOODWEAT)|
 | 8.          | MIXTURE             | 12/04/22 | 00:09:00   | [MIXTURE](https://www.codechef.com/problems/MIXTURE)|
 | 9.          | CHSFORMT            | 12/04/22 | 00:05:00   | [CHSFORMT](https://www.codechef.com/problems/CHSFORMT)|
-| 10.         | BMI                 | 12/04/22 | 00:00:00   | [BMI](https://www.codechef.com/problems/BMI)|
+| 10.         | BMI                 | 12/04/22 | 00:02:00   | [BMI](https://www.codechef.com/problems/BMI)|
 | 11.         | CHEFTRANS           | 00/04/22 | 00:00:00   | [CHEFTRANS](coming soon#https://www.codechef.com/problems/CHEFTRANS)|
 
 ## This Problems are solved by me i have not copied code from internet
