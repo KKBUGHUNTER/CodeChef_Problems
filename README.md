@@ -7,7 +7,8 @@
 | 4.          | HARDBET             | 11/04/22 | 00:10:00   | [HARDBET](https://www.codechef.com/problems/HARDBET)|
 | 5.          | SUPCHEF             | 11/04/22 | 00:05:00   | [SUPCHEF](https://www.codechef.com/problems/SUPCHEF)|
 | 6.          | GENE01              | 12/04/22 | 00:08:00   | [GENE01](https://www.codechef.com/problems/GENE01)|
-| 7.          | GOODWEAT            | 00/04/22 | 00:00:00   | [GOODWEAT](coming soon)|
+| 7.          | GOODWEAT            | 12/04/22 | 00:10:00   | [GOODWEAT](https://www.codechef.com/problems/GOODWEAT)|
+| 8.          | MIXTURE             | 00/04/22 | 00:00:00   | [MIXTURE](coming soon)|
 
 
 ## This Problems are solved by me i have not copied code from internet
