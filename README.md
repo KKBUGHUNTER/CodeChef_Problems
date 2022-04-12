@@ -1,7 +1,7 @@
 # CodeChef_Problems
 | S.no        | Problem             | Date     | Time Taken | Link        |
 | ----------- | ------------------- | -------- | ---------- | ----------- |
-| 1.          | PASS OR FAIL        | 10/04/22 | 02:45:00   | [PASS OR FAIL](https://www.codechef.com/problems/PASSORFAIL)|
+| 1.          | PASS OR FAIL        | 10/04/22 | 02:45:00   | [PASS OR FAIL](https://www.codechef.com/problems/PASSORFAIL)|                                 
 | 2.          | RCB PLAY            | 10/04/22 | 00:45:00   | [RCB PLAY](https://www.codechef.com/problems/RCBPLAY)|
 | 3.          | Lazy Chef           | 10/04/22 | 00:20:00   | [Lazy Chef](https://www.codechef.com/problems/LAZYCHF)|
 | 4.          | HARDBET             | 11/04/22 | 00:10:00   | [HARDBET](https://www.codechef.com/problems/HARDBET)|
@@ -16,7 +16,7 @@
 | 13.         | CHEFTRANS           | 12/04/22 | 00:03:00   | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
 | 14.         | BUDGET_             | 12/04/22 | 00:03:00   | [BUDGET_](https://www.codechef.com/problems/BUDGET_)|
 | 15.         | WATERCOOLER1        | 12/04/22 | 00:05:00   | [WATERCOOLER1](https://www.codechef.com/problems/WATERCOOLER1)|
-
+| 16.         | MINCARS             | 13/04/22 | 00:05:00   | [MINCARS](https://www.codechef.com/problems/MINCARS)|
 
 
 ## This Problems are solved by me i have not copied code from internet
