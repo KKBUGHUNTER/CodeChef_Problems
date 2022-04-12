@@ -15,7 +15,7 @@
 | 12.         | CARS                | 12/04/22 | 00:02:00   | [CARS](https://www.codechef.com/problems/CABS)|
 | 13.         | CHEFTRANS           | 12/04/22 | 00:03:00   | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
 | 14.         | BUDGET_             | 12/04/22 | 00:03:00   | [BUDGET_](https://www.codechef.com/problems/BUDGET_)|
-
+| 15.         | WATERCOOLER1        | 12/04/22 | 00:05:00   | [WATERCOOLER1](https://www.codechef.com/problems/WATERCOOLER1)|
 
 
 
