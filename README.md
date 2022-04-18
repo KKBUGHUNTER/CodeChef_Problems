@@ -17,6 +17,15 @@
 | 14.         | BUDGET_             | 12/04/22 | 00:03:00   | [BUDGET_](https://www.codechef.com/problems/BUDGET_)|
 | 15.         | WATERCOOLER1        | 12/04/22 | 00:05:00   | [WATERCOOLER1](https://www.codechef.com/problems/WATERCOOLER1)|
 | 16.         | MINCARS             | 13/04/22 | 00:05:00   | [MINCARS](https://www.codechef.com/problems/MINCARS)|
+| 17.         | VISA                | 18/04/22 | 00:10:00   | [VISA](https://www.codechef.com/problems/VISA)|
+| 18.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
+| 19.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
+| 20.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
+| 21.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
+| 22.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
+| 23.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
+
+
 
 
 ## This Problems are solved by me i have not copied code from internet
