@@ -18,10 +18,10 @@
 | 15.         | WATERCOOLER1        | 12/04/22 | 00:05:00   | [WATERCOOLER1](https://www.codechef.com/problems/WATERCOOLER1)|
 | 16.         | MINCARS             | 13/04/22 | 00:05:00   | [MINCARS](https://www.codechef.com/problems/MINCARS)|
 | 17.         | VISA                | 18/04/22 | 00:10:00   | [VISA](https://www.codechef.com/problems/VISA)|
-| 18.         | VISA                | 13/04/22 | 00:05.0    | [VISA](#https://www.codechef.com/problems/VISA)|
-| 19.         | TALLER              | 13/04/22 | 00:10:00   | [TALLER](https://www.codechef.com/START36D/problems/TALLER)|
-| 20.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
-| 21.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
+| 18.         | WATERREQ            | 01/05/22 | 00:05.00   | [WATERREQ](https://www.codechef.com/START35D/problems/WATERREQ)|
+| 19.         | TALLER              | 15/04/22 | 00:10:00   | [TALLER](https://www.codechef.com/START36D/problems/TALLER)|
+| 20.         | SEMCOURSES          | 15/04/22 | 00:10:00   | [SEMCOURSES](https://www.codechef.com/problems/SEMCOURSES)|
+| 21.         | PRESENTS            | 15/04/22 | 00:10:00   | [PRESENTS](#https://www.codechef.com/problems/PRESENTS)|
 | 22.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
 | 23.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
 
