@@ -1,29 +1,29 @@
 # CodeChef_Problems
-| S.no        | Problem             | Date     | Time Taken | Link        |
-| ----------- | ------------------- | -------- | ---------- | ----------- |
-| 1.          | PASS OR FAIL        | 10/04/22 | 02:45:00   | [PASS OR FAIL](https://www.codechef.com/problems/PASSORFAIL)|                                 
-| 2.          | RCB PLAY            | 10/04/22 | 00:45:00   | [RCB PLAY](https://www.codechef.com/problems/RCBPLAY)|
-| 3.          | Lazy Chef           | 10/04/22 | 00:20:00   | [Lazy Chef](https://www.codechef.com/problems/LAZYCHF)|
-| 4.          | HARDBET             | 11/04/22 | 00:10:00   | [HARDBET](https://www.codechef.com/problems/HARDBET)|
-| 5.          | SUPCHEF             | 11/04/22 | 00:05:00   | [SUPCHEF](https://www.codechef.com/problems/SUPCHEF)|
-| 6.          | GENE01              | 12/04/22 | 00:08:00   | [GENE01](https://www.codechef.com/problems/GENE01)|
-| 7.          | GOODWEAT            | 12/04/22 | 00:10:00   | [GOODWEAT](https://www.codechef.com/problems/GOODWEAT)|
-| 8.          | MIXTURE             | 12/04/22 | 00:09:00   | [MIXTURE](https://www.codechef.com/problems/MIXTURE)|
-| 9.          | CHSFORMT            | 12/04/22 | 00:05:00   | [CHSFORMT](https://www.codechef.com/problems/CHSFORMT)|
-| 10.         | BMI                 | 12/04/22 | 00:02:00   | [BMI](https://www.codechef.com/problems/BMI)|
-| 11.         | CHEFTRANS           | 12/04/22 | 00:10:00   | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
-| 12.         | CARS                | 12/04/22 | 00:02:00   | [CARS](https://www.codechef.com/problems/CABS)|
-| 13.         | CHEFTRANS           | 12/04/22 | 00:03:00   | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
-| 14.         | BUDGET_             | 12/04/22 | 00:03:00   | [BUDGET_](https://www.codechef.com/problems/BUDGET_)|
-| 15.         | WATERCOOLER1        | 12/04/22 | 00:05:00   | [WATERCOOLER1](https://www.codechef.com/problems/WATERCOOLER1)|
-| 16.         | MINCARS             | 13/04/22 | 00:05:00   | [MINCARS](https://www.codechef.com/problems/MINCARS)|
-| 17.         | VISA                | 18/04/22 | 00:10:00   | [VISA](https://www.codechef.com/problems/VISA)|
-| 18.         | WATERREQ            | 01/05/22 | 00:05.00   | [WATERREQ](https://www.codechef.com/START35D/problems/WATERREQ)|
-| 19.         | TALLER              | 15/04/22 | 00:10:00   | [TALLER](https://www.codechef.com/START36D/problems/TALLER)|
-| 20.         | SEMCOURSES          | 15/04/22 | 00:10:00   | [SEMCOURSES](https://www.codechef.com/problems/SEMCOURSES)|
-| 21.         | PRESENTS            | 15/04/22 | 00:10:00   | [PRESENTS](#https://www.codechef.com/problems/PRESENTS)|
-| 22.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
-| 23.         | VISA                | 13/04/22 | 00:10:00   | [VISA](#https://www.codechef.com/problems/VISA)|
+| S.no        | Problem             | Link        |
+| ----------- | ------------------- | ----------- |
+| 1.          | PASS OR FAIL        | [PASS OR FAIL](https://www.codechef.com/problems/PASSORFAIL)|                                 
+| 2.          | RCB PLAY            | [RCB PLAY](https://www.codechef.com/problems/RCBPLAY)|
+| 3.          | Lazy Chef           | [Lazy Chef](https://www.codechef.com/problems/LAZYCHF)|
+| 4.          | HARDBET             | [HARDBET](https://www.codechef.com/problems/HARDBET)|
+| 5.          | SUPCHEF             | [SUPCHEF](https://www.codechef.com/problems/SUPCHEF)|
+| 6.          | GENE01              | [GENE01](https://www.codechef.com/problems/GENE01)|
+| 7.          | GOODWEAT            | [GOODWEAT](https://www.codechef.com/problems/GOODWEAT)|
+| 8.          | MIXTURE             | [MIXTURE](https://www.codechef.com/problems/MIXTURE)|
+| 9.          | CHSFORMT            | [CHSFORMT](https://www.codechef.com/problems/CHSFORMT)|
+| 10.         | BMI                 | [BMI](https://www.codechef.com/problems/BMI)|
+| 11.         | CHEFTRANS           | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
+| 12.         | CARS                | [CARS](https://www.codechef.com/problems/CABS)|
+| 13.         | CHEFTRANS           | [CHEFTRANS](https://www.codechef.com/problems/CHEFTRANS)|
+| 14.         | BUDGET_             | [BUDGET_](https://www.codechef.com/problems/BUDGET_)|
+| 15.         | WATERCOOLER1        | [WATERCOOLER1](https://www.codechef.com/problems/WATERCOOLER1)|
+| 16.         | MINCARS             | [MINCARS](https://www.codechef.com/problems/MINCARS)|
+| 17.         | VISA                | [VISA](https://www.codechef.com/problems/VISA)|
+| 18.         | WATERREQ            | [WATERREQ](https://www.codechef.com/START35D/problems/WATERREQ)|
+| 19.         | TALLER              | [TALLER](https://www.codechef.com/START36D/problems/TALLER)|
+| 20.         | SEMCOURSES          | [SEMCOURSES](https://www.codechef.com/problems/SEMCOURSES)|
+| 21.         | PRESENTS            | [PRESENTS](#https://www.codechef.com/problems/PRESENTS)|
+| 22.         | VISA                | [VISA](#https://www.codechef.com/problems/VISA)|
+| 23.         | VISA                | [VISA](#https://www.codechef.com/problems/VISA)|
 
 
 
