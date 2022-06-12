@@ -21,7 +21,7 @@
 | 18.         | WATERREQ            | [WATERREQ](https://www.codechef.com/START35D/problems/WATERREQ)|
 | 19.         | TALLER              | [TALLER](https://www.codechef.com/START36D/problems/TALLER)|
 | 20.         | SEMCOURSES          | [SEMCOURSES](https://www.codechef.com/problems/SEMCOURSES)|
-| 21.         | PRESENTS            | [PRESENTS](#https://www.codechef.com/problems/PRESENTS)|
+| 21.         | PRESENTS            | [PRESENTS](https://www.codechef.com/problems/PRESENTS)|
 | 22.         | VISA                | [VISA](#https://www.codechef.com/problems/VISA)|
 | 23.         | VISA                | [VISA](#https://www.codechef.com/problems/VISA)|
 
